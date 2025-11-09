@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`8b7fc9f`](https://github.com/stdlib-js/stdlib/commit/8b7fc9fa2c718da3ef617ff0fc2a307c1d19231e) - **docs:** update heading _(by Athan Reines)_
 -   [`3561b96`](https://github.com/stdlib-js/stdlib/commit/3561b96d7e860a2bddc1101d06f4c2437d878d53) - **docs:** fix indentation _(by Philipp Burckhardt)_
 -   [`b18ecdd`](https://github.com/stdlib-js/stdlib/commit/b18ecdd324030deecb2f4fc7564d4218916ae7a9) - **feat:** add `assert/has-to-primitive-symbol-support` [(#8469)](https://github.com/stdlib-js/stdlib/pull/8469) _(by kaushal-kumar-it, Athan Reines)_
 
