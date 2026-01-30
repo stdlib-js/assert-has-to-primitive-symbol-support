@@ -44,6 +44,11 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
+import hasToPrimitiveSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-to-primitive-symbol-support@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/assert-has-to-primitive-symbol-support/tags). For example,
+
+```javascript
 import hasToPrimitiveSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-to-primitive-symbol-support@v0.1.0-esm/index.mjs';
 ```
 
@@ -76,7 +81,7 @@ var bool = hasToPrimitiveSymbolSupport();
 <body>
 <script type="module">
 
-import hasToPrimitiveSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-to-primitive-symbol-support@v0.1.0-esm/index.mjs';
+import hasToPrimitiveSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-to-primitive-symbol-support@esm/index.mjs';
 
 var bool = hasToPrimitiveSymbolSupport();
 if ( bool ) {
