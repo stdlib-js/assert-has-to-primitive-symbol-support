@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-has-to-primitive-symbol-support",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Detect native Symbol.toPrimitive support.",
   "license": "Apache-2.0",
   "author": {
