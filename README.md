@@ -44,7 +44,7 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
-import hasToPrimitiveSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-to-primitive-symbol-support@esm/index.mjs';
+import hasToPrimitiveSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-to-primitive-symbol-support@v0.1.1-esm/index.mjs';
 ```
 
 #### hasToPrimitiveSymbolSupport()
@@ -76,7 +76,7 @@ var bool = hasToPrimitiveSymbolSupport();
 <body>
 <script type="module">
 
-import hasToPrimitiveSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-to-primitive-symbol-support@esm/index.mjs';
+import hasToPrimitiveSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-to-primitive-symbol-support@v0.1.1-esm/index.mjs';
 
 var bool = hasToPrimitiveSymbolSupport();
 if ( bool ) {
